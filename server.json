@@ -1,0 +1,56 @@
+{
+  "usuarios": [
+    {
+      "id": "0445155b-ea4c-4987-9341-a554d3524991",
+      "nome": "Adriel Lucas Monteiro Borges",
+      "cpf": "312.321.312-32",
+      "email": "adriellucasmonteiro@hotmail.com",
+      "endereco": {
+        "cep": 32132132,
+        "rua": "Pass. São José",
+        "numero": 1,
+        "bairro": "cacacac",
+        "cidade": "Ananindeua"
+      }
+    },
+    {
+      "id": "0445155b-ea4c-4987-9341-a554d3524993",
+      "nome": "o bar2",
+      "cpf": "213.123.123-45",
+      "email": "foo_bar@email.com",
+      "endereco": {
+        "cep": 13454000,
+        "rua": "rua talvez",
+        "numero": 785,
+        "bairro": "bairro azul",
+        "cidade": "cidade eterna"
+      }
+    },
+    {
+      "id": "0445155b-ea4c-4987-9341-a554d3524992",
+      "nome": "o bar3",
+      "cpf": "213.123.123-45",
+      "email": "foo_bar@email.com",
+      "endereco": {
+        "cep": 13454000,
+        "rua": "rua talvez",
+        "numero": 785,
+        "bairro": "bairro azul",
+        "cidade": "cidade eterna"
+      }
+    },
+    {
+      "id": "5efc92cb-9bfa-4c17-8dbd-75c4e82c42ef",
+      "nome": "Adriel Lucas Monteiro Borges",
+      "cpf": "981.264.556-87",
+      "email": "adriellucasmonteiro@hotmail.com",
+      "endereco": {
+        "cep": 67145530,
+        "rua": "Pass. São José",
+        "numero": 50,
+        "bairro": "verde",
+        "cidade": "Ananindeua"
+      }
+    }
+  ]
+}
